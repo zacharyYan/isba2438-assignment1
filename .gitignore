@@ -1,0 +1,17 @@
+# Runtime data — created locally by products.py, never commit user data
+products.json
+*.json.bak
+.products-*.tmp
+
+# Demo/recording artifacts (recordings, demo dirs, scratch data)
+demo/
+recordings/
+*.mov
+*.mp4
+
+# Python caches
+__pycache__/
+*.pyc
+
+# macOS noise
+.DS_Store
